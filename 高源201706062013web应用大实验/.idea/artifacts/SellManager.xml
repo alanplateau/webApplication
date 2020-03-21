@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SellManager">
+    <output-path>$PROJECT_DIR$/out/artifacts/SellManager</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Saimot公司全国销售管理系统/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Saimot公司全国销售管理系统" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
